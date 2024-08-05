@@ -4,6 +4,7 @@
 
 <h3 align="center">Languages and Tools:</h3>
 
+<div align="center">
 <img src="https://github.com/MigueMendz/MigueMendz/blob/migueDEV/images/Aws.svg" alt="Descripción de la imagen" width="50">
 <img src="https://github.com/MigueMendz/MigueMendz/blob/migueDEV/images/Discord.svg" alt="Descripción de la imagen" width="50">
 <img src="https://github.com/MigueMendz/MigueMendz/blob/migueDEV/images/Docker.svg" alt="Descripción de la imagen" width="50">
@@ -24,7 +25,7 @@
 <img src="https://github.com/MigueMendz/MigueMendz/blob/migueDEV/images/Linux.svg" alt="Descripción de la imagen" width="50">
 <img src="https://github.com/MigueMendz/MigueMendz/blob/migueDEV/images/Ubuntu.svg" alt="Descripción de la imagen" width="50">
 <img src="https://github.com/MigueMendz/MigueMendz/blob/migueDEV/images/Windows.svg" alt="Descripción de la imagen" width="50">
-
+</div>
 
 <div align="left">
 
