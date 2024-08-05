@@ -6,6 +6,7 @@
 
 <img src="https://skillicons.dev/icons?i=ts,js,java,python" /><br>
 <img src="https://skillicons.dev/icons?i=spring, fastapi, nodejs, flask" /><br>
+<img src="https://github.com/MigueMendz/MigueMendz/tree/migueDEV/images" /><br>
 
 <div align="left">
 
