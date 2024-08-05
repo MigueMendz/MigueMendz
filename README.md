@@ -8,13 +8,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts, js, java, python" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql, postgres, java" />
+    <img src="https://skillicons.dev/icons?i=ts, js, java, python, mysql, postgres, spring, npm" />
   </a>
 </p>
 
