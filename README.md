@@ -3,3 +3,11 @@
 <br>
 
 <h3 align="center">Languages and Tools:</h3>
+
+<img src="https://skillicons.dev/icons?i=nodejs,github,c,javascript,typescript,express,mongodb,java" /><br>
+
+
+
+<div align="left">
+
+</div>
