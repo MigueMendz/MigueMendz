@@ -10,7 +10,7 @@
   <img src="https://github.com/MigueMendz/MigueMendz/blob/migueDEV/images/Ubuntu.svg" alt="Descripción de la imagen" width="50">
   <img src="https://github.com/MigueMendz/MigueMendz/blob/migueDEV/images/Windows.svg" alt="Descripción de la imagen" width="50">
 </div>
-
+<br>
 <div align="center">
   <img src="https://github.com/MigueMendz/MigueMendz/blob/migueDEV/images/MySQL.svg" alt="Descripción de la imagen" width="50">
   <img src="https://github.com/MigueMendz/MigueMendz/blob/migueDEV/images/PostgreSQL.svg" alt="Descripción de la imagen" width="50">
