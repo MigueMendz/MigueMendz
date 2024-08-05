@@ -5,13 +5,8 @@
 <h3 align="center">Languages and Tools:</h3>
 
 <img src="https://skillicons.dev/icons?i=ts,js,java,python" /><br>
+<img src="https://skillicons.dev/icons?i=spring, fastapi, nodejs, flask" /><br>
+
 <div align="left">
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts, js, java, python, mysql, postgres, spring, npm" />
-  </a>
-</p>
-
 
 </div>
