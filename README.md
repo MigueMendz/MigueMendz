@@ -6,9 +6,9 @@
 
 
 <div align="center">
-  <img src="https://github.com/MigueMendz/MigueMendz/blob/migueDEV/images/Linux.svg" alt="Descripción de la imagen" width="50" style="margin: 0 10px;">
-  <img src="https://github.com/MigueMendz/MigueMendz/blob/migueDEV/images/Ubuntu.svg" alt="Descripción de la imagen" width="50" style="margin: 0 10px;">
-  <img src="https://github.com/MigueMendz/MigueMendz/blob/migueDEV/images/Windows.svg" alt="Descripción de la imagen" width="50" style="margin: 0 10px;">
+  <img src="https://github.com/MigueMendz/MigueMendz/blob/migueDEV/images/Linux.svg" alt="Descripción de la imagen" width="50" style="margin: 0 30px;">
+  <img src="https://github.com/MigueMendz/MigueMendz/blob/migueDEV/images/Ubuntu.svg" alt="Descripción de la imagen" width="50" style="margin: 0 30px;">
+  <img src="https://github.com/MigueMendz/MigueMendz/blob/migueDEV/images/Windows.svg" alt="Descripción de la imagen" width="50" style="margin: 0 30px;">
 </div>
 <br>
 <div align="center">
