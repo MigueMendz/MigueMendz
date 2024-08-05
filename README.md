@@ -46,6 +46,6 @@
 </div>
 <style>
   .spaced-img {
-    margin: 0 60px;
+    margin: 0 160px;
   }
 </style>
