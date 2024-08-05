@@ -5,9 +5,9 @@
 <h3 align="center">Languages and Tools:</h3>
 
 <div align="center">
-  <img src="https://github.com/MigueMendz/MigueMendz/blob/migueDEV/images/Linux.svg" alt="Linux" width="50" style="margin: 0 10px;">
-  <img src="https://github.com/MigueMendz/MigueMendz/blob/migueDEV/images/Ubuntu.svg" alt="Ubuntu" width="50" style="margin: 0 10px;">
-  <img src="https://github.com/MigueMendz/MigueMendz/blob/migueDEV/images/Windows.svg" alt="Windows" width="50" style="margin: 0 10px;">
+  <img src="https://github.com/MigueMendz/MigueMendz/blob/migueDEV/images/Linux.svg" alt="Linux" width="50" style="margin: 5 10px;">
+  <img src="https://github.com/MigueMendz/MigueMendz/blob/migueDEV/images/Ubuntu.svg" alt="Ubuntu" width="50" style="margin: 5 10px;">
+  <img src="https://github.com/MigueMendz/MigueMendz/blob/migueDEV/images/Windows.svg" alt="Windows" width="50" style="margin: 5 10px;">
 </div>
 
 <br>
