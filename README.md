@@ -4,7 +4,7 @@
 
 <h3 align="center">Languages and Tools:</h3>
 
-<img src="https://skillicons.dev/icons?i=nodejs,github,c,javascript,typescript,express,mongodb,java" /><br>
+<img src="https://skillicons.dev/icons?i=ts,js,java,python" /><br>
 
 
 
