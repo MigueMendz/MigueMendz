@@ -42,10 +42,11 @@
 
 
 <div align="left">
-
-</div>
 <style>
   .spaced-img {
     margin: 100 160px;
   }
 </style>
+
+
+</div>
