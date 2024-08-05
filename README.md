@@ -5,10 +5,17 @@
 <h3 align="center">Languages and Tools:</h3>
 
 <div align="center">
-  <img src="https://github.com/MigueMendz/MigueMendz/blob/migueDEV/images/Linux.svg" alt="Linux" width="50" class="spaced-img">
-  <img src="https://github.com/MigueMendz/MigueMendz/blob/migueDEV/images/Ubuntu.svg" alt="Ubuntu" width="50" class="spaced-img">
-  <img src="https://github.com/MigueMendz/MigueMendz/blob/migueDEV/images/Windows.svg" alt="Windows" width="50" class="spaced-img">
+  <span style="margin: 0 10px;">
+    <img src="https://github.com/MigueMendz/MigueMendz/blob/migueDEV/images/Linux.svg" alt="Linux" width="50">
+  </span>
+  <span style="margin: 0 10px;">
+    <img src="https://github.com/MigueMendz/MigueMendz/blob/migueDEV/images/Ubuntu.svg" alt="Ubuntu" width="50">
+  </span>
+  <span style="margin: 0 10px;">
+    <img src="https://github.com/MigueMendz/MigueMendz/blob/migueDEV/images/Windows.svg" alt="Windows" width="50">
+  </span>
 </div>
+
 
 <br>
 <div align="center">
@@ -38,15 +45,5 @@
   <img src="https://github.com/MigueMendz/MigueMendz/blob/migueDEV/images/Flask.svg" alt="Descripción de la imagen" width="50">
   <img src="https://github.com/MigueMendz/MigueMendz/blob/migueDEV/images/NodeJS.svg" alt="Descripción de la imagen" width="50">
 </div>
-
-
-
-<div align="left">
-<style>
-  .spaced-img {
-    margin: 100 160px;
-  }
-</style>
-
 
 </div>
