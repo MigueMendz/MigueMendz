@@ -5,6 +5,7 @@
 <h3 align="center">Languages and Tools:</h3>
 
 <img src="https://skillicons.dev/icons?i=ts,js,java,python" /><br>
+<div align="left">
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -12,6 +13,5 @@
   </a>
 </p>
 
-<div align="left">
 
 </div>
