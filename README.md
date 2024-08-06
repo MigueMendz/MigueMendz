@@ -1,7 +1,7 @@
 
 <div align="center">
  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=27&letterSpacing=3px&duration=1500&pause=5000&color=F7F7F7&center=true&vCenter=true&multiline=true&repeat=false&width=435&lines=I'm+Miguel+Mendoza)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=27&letterSpacing=3px&duration=1&pause=1&color=F7F7F7&center=true&vCenter=true&multiline=true&repeat=false&width=435&lines=I'm+Miguel+Mendoza)](https://git.io/typing-svg)
  
 </div>
 
