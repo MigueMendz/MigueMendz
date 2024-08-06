@@ -15,16 +15,6 @@
 <h3 align="center">System</h3>
 
 
-<div align="center">
-  <a href="javascript:void(0);">
-    <img src="https://github.com/MigueMendz/MigueMendz/blob/migueDEV/images/Linux.svg" alt="Linux" width="50">
-  </a>
-  <img width="12">
-  <a href="javascript:void(0);">
-    <img src="https://github.com/MigueMendz/MigueMendz/blob/migueDEV/images/Windows.svg" alt="Windows" width="50">
-  </a>
-</div>
-
 
 
 <div align="center">
