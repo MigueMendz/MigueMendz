@@ -75,7 +75,7 @@
 <br>
 <p align='center'>
 <img src="https://github-readme-stats.vercel.app/api?username=MigueMendz&show_icons=true&theme=github_dark">
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MigueMendz&layout=compact&langs_count=8&theme=github_dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MigueMendz&layout=compact&langs_count=8&theme=github_dark" alt="Top Languages">
 </p>
 <hr>
 <br>
