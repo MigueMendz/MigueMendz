@@ -15,6 +15,16 @@
 <h3 align="center">System</h3>
 
 <div align="center">
+  <a href="javascript:void(0);" style="display: inline-block; text-decoration: none;">
+    <img src="https://github.com/MigueMendz/MigueMendz/blob/migueDEV/images/Linux.svg" alt="Linux" width="50" style="pointer-events: none;">
+  </a>
+  <a href="javascript:void(0);" style="display: inline-block; text-decoration: none;">
+    <img src="https://github.com/MigueMendz/MigueMendz/blob/migueDEV/images/Windows.svg" alt="Windows" width="50" style="pointer-events: none;">
+  </a>
+</div>
+
+
+<div align="center">
   <img src="https://github.com/MigueMendz/MigueMendz/blob/migueDEV/images/Linux.svg" alt="Linux" width="50">
   <img width="12" />
   <img src="https://github.com/MigueMendz/MigueMendz/blob/migueDEV/images/Windows.svg" alt="Windows" width="50">
