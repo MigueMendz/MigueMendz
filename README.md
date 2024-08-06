@@ -73,7 +73,7 @@
 </div>
 
 <div>
-
+### ⚙️ &nbsp;GitHub Analytics
 <p align='center'>
 <img src="https://github-readme-stats.vercel.app/api?username=MigueMendz&show_icons=true&theme=github_dark">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MigueMendz&layout=compact&langs_count=8&theme=github_dark" alt="Top Languages">
