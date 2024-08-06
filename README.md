@@ -1,7 +1,6 @@
 <br>
 <h1 align="center">I'm Miguel Mendoza</h1>
 <h4 align="center">Specializing in Backend</h3>
-<br>
 <h3 align="center">System</h3>
 <div align="center">
   <img src="https://github.com/MigueMendz/MigueMendz/blob/migueDEV/images/Linux.svg" alt="Linux" width="50">
