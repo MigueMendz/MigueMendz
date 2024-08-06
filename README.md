@@ -30,7 +30,8 @@
   <img src="https://github.com/MigueMendz/MigueMendz/blob/migueDEV/images/MySQL.svg" alt="MySQL" width="50">
   <img width="12" />
   <img src="https://github.com/MigueMendz/MigueMendz/blob/migueDEV/images/PostgreSQL.svg" alt="PostgreSQL" width="50">
-  <img width="12" />
+</div>
+<div align="center">
   <img src="https://github.com/MigueMendz/MigueMendz/blob/migueDEV/images/MongoDB.svg" alt="MongoDB" width="50">
 </div>
 
@@ -41,7 +42,8 @@
   <img src="https://github.com/MigueMendz/MigueMendz/blob/migueDEV/images/TypeScript.svg" alt="TypeScript" width="50">
   <img width="12" />
   <img src="https://github.com/MigueMendz/MigueMendz/blob/migueDEV/images/Java.svg" alt="Java" width="50">
-  <img width="12" />
+</div>
+<div align="center">
   <img src="https://github.com/MigueMendz/MigueMendz/blob/migueDEV/images/JavaScript.svg" alt="JavaScript" width="50">
   <img width="12" />
   <img src="https://github.com/MigueMendz/MigueMendz/blob/migueDEV/images/Python.svg" alt="Python" width="50">
@@ -54,7 +56,8 @@
   <img src="https://github.com/MigueMendz/MigueMendz/blob/migueDEV/images/Docker.svg" alt="Docker" width="50">
   <img width="12" />
   <img src="https://github.com/MigueMendz/MigueMendz/blob/migueDEV/images/Aws.svg" alt="AWS" width="50">
-  <img width="12" />
+</div>
+<div align="center">
   <img src="https://github.com/MigueMendz/MigueMendz/blob/migueDEV/images/Postman.svg" alt="Postman" width="50">
   <img width="12" />
   <img src="https://github.com/MigueMendz/MigueMendz/blob/migueDEV/images/Discord.svg" alt="Discord" width="50">
@@ -67,11 +70,13 @@
   <img src="https://github.com/MigueMendz/MigueMendz/blob/migueDEV/images/Spring.svg" alt="Spring" width="50">
   <img width="12" />
   <img src="https://github.com/MigueMendz/MigueMendz/blob/migueDEV/images/ExpressJS.svg" alt="ExpressJS" width="50">
-  <img width="12" />
+</div>
+<div align="center">
   <img src="https://github.com/MigueMendz/MigueMendz/blob/migueDEV/images/FastAPI.svg" alt="FastAPI" width="50">
   <img width="12" />
   <img src="https://github.com/MigueMendz/MigueMendz/blob/migueDEV/images/Flask.svg" alt="Flask" width="50">
-  <img width="12" />
+</div>
+<div align="center">
   <img src="https://github.com/MigueMendz/MigueMendz/blob/migueDEV/images/NodeJS.svg" alt="NodeJS" width="50">
 </div>
 
