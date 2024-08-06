@@ -1,5 +1,5 @@
 <h1 align="center">I'm Miguel Mendoza</h1>
-<h4 align="center">JAVASCRIPT, PYTHON, TYPESCRIPT, JAVA</h3>
+<h4 align="center">Specializing in Backend</h3>
 <br>
 
 <h3 align="center">Languages and Tools:</h3>
