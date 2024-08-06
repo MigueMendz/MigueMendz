@@ -16,7 +16,7 @@
 
 
 
-<h3 align="center">System & Database & Languages</h3>
+<h3 align="center">System | Database | Languages</h3>
 <div align="center">
   <img src="https://github.com/MigueMendz/MigueMendz/blob/migueDEV/images/Linux.svg" alt="Linux" width="50">
   <img width="12" />
@@ -39,7 +39,7 @@
 
 <br>
 
-<h3 align="center">Tools & Technologies</h3>
+<h3 align="center">Tools and Technologies</h3>
 <div align="center">
   <img src="https://github.com/MigueMendz/MigueMendz/blob/migueDEV/images/Docker.svg" alt="Docker" width="50">
   <img width="12" />
