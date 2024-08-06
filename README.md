@@ -1,8 +1,10 @@
 <!-- Welcome im miguel mendoza -->
-<div aling="right">
- 
-![Visits](https://komarev.com/ghpvc/?username=MigueMendz&label=Visits&color=balck&style=flat)
- 
+<!-- Contador de visitas con diseño mejorado -->
+<h3 align="center">Visitas</h3>
+<div align="center">
+  <a href="https://github.com/MigueMendz">
+    <img src="https://komarev.com/ghpvc/?username=MigueMendz&label=Visits&color=black&style=flat&labelColor=gray" alt="Visits" style="border: 2px solid #ddd; border-radius: 8px; padding: 5px;" />
+  </a>
 </div>
 
 <div align="center">
