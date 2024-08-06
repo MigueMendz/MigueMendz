@@ -2,7 +2,7 @@
 <!-- Contador de visitas con diseño mejorado -->
 <div align="right">
   <a href="https://github.com/MigueMendz">
-    <img src="https://komarev.com/ghpvc/?username=MigueMendz&label=Visits&color=gray&style=flat&labelColor=black" alt="Visits" style="border: 2px solid #ddd; border-radius: 8px; padding: 5px;" />
+    <img src="https://komarev.com/ghpvc/?username=MigueMendz&label=Visits&color=gray&style=for-the-badge&labelColor=black" alt="Visits" style="border: 2px solid #ddd; border-radius: 8px; padding: 5px;" />
   </a>
 </div>
 
