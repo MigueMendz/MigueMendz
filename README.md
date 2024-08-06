@@ -1,4 +1,3 @@
-<br>
 <h1 align="center">I'm Miguel Mendoza</h1>
 <h3 align="center">System</h3>
 <div align="center">
