@@ -12,6 +12,7 @@
   <img width="12" />
 </div>
 <br>
+<h3 align="center">Database</h3>
 <div align="center">
   <img src="https://github.com/MigueMendz/MigueMendz/blob/migueDEV/images/MySQL.svg" alt="Descripción de la imagen" width="50">
   <img width="12" />
@@ -21,6 +22,7 @@
   <img width="12" />
 </div>
 <br>
+<h3 align="center">Lenguages</h3>
 <div align="center">
   <img src="https://github.com/MigueMendz/MigueMendz/blob/migueDEV/images/TypeScript.svg" alt="Descripción de la imagen" width="50">
   <img width="12" />
@@ -31,6 +33,7 @@
   <img src="https://github.com/MigueMendz/MigueMendz/blob/migueDEV/images/Python.svg" alt="Descripción de la imagen" width="50">
 </div>
 <br>
+<h3 align="center">Others</h3>
 <div align="center">
   <img src="https://github.com/MigueMendz/MigueMendz/blob/migueDEV/images/Docker.svg" alt="Descripción de la imagen" width="50">
   <img width="12" />
@@ -41,6 +44,7 @@
   <img src="https://github.com/MigueMendz/MigueMendz/blob/migueDEV/images/Discord.svg" alt="Descripción de la imagen" width="50">
 </div>
 <br>
+<h3 align="center">Technology</h3>
 <div align="center">
   <img src="https://github.com/MigueMendz/MigueMendz/blob/migueDEV/images/Spring.svg" alt="Descripción de la imagen" width="50">
   <img width="12" />
