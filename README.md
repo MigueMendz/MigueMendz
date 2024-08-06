@@ -15,11 +15,12 @@
 <h3 align="center">System</h3>
 
 <div align="center">
-  <img src="https://github.com/MigueMendz/MigueMendz/blob/migueDEV/images/Linux.svg" alt="Linux" width="50" rel=”nofollow”>
+  <img src="https://github.com/MigueMendz/MigueMendz/blob/migueDEV/images/Linux.svg" alt="Linux" width="50" style="pointer-events: none;">
   <img width="12" />
-  <img src="https://github.com/MigueMendz/MigueMendz/blob/migueDEV/images/Windows.svg" alt="Windows" width="50">
+  <img src="https://github.com/MigueMendz/MigueMendz/blob/migueDEV/images/Windows.svg" alt="Windows" width="50" style="pointer-events: none;">
   <img width="12" />
 </div>
+
 
 
 <br>
