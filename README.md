@@ -14,11 +14,16 @@
 
 <h3 align="center">System</h3>
 <div align="center">
-  <img src="https://github.com/MigueMendz/MigueMendz/blob/migueDEV/images/Linux.svg" alt="Linux" width="50">
+  <span>
+    <img src="https://github.com/MigueMendz/MigueMendz/blob/migueDEV/images/Linux.svg" alt="Linux" width="50">
+  </span>
   <img width="12" />
-  <img src="https://github.com/MigueMendz/MigueMendz/blob/migueDEV/images/Windows.svg" alt="Windows" width="50">
+  <span>
+    <img src="https://github.com/MigueMendz/MigueMendz/blob/migueDEV/images/Windows.svg" alt="Windows" width="50">
+  </span>
   <img width="12" />
 </div>
+
 <br>
 <h3 align="center">Database</h3>
 <div align="center">
