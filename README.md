@@ -16,50 +16,49 @@
 
 
 
-<h3 align="center">System & Database & Languages</h3>
+<h3 align="center">Systems | Databases | Languages</h3>
 <div align="center">
-  <div style="display: inline-block; width: 50px; height: 50px; background-image: url('https://github.com/MigueMendz/MigueMendz/blob/migueDEV/images/Linux.svg'); background-size: contain; background-repeat: no-repeat;"></div>
+  <img src="https://github.com/MigueMendz/MigueMendz/blob/migueDEV/images/Linux.svg" alt="Linux" width="50">
   <img width="12" />
-  <div style="display: inline-block; width: 50px; height: 50px; background-image: url('https://github.com/MigueMendz/MigueMendz/blob/migueDEV/images/Windows.svg'); background-size: contain; background-repeat: no-repeat;"></div>
+  <img src="https://github.com/MigueMendz/MigueMendz/blob/migueDEV/images/Windows.svg" alt="Windows" width="50">
   <img width="12" />
-  <div style="display: inline-block; width: 50px; height: 50px; background-image: url('https://github.com/MigueMendz/MigueMendz/blob/migueDEV/images/MySQL.svg'); background-size: contain; background-repeat: no-repeat;"></div>
+  <img src="https://github.com/MigueMendz/MigueMendz/blob/migueDEV/images/MySQL.svg" alt="MySQL" width="50">
   <img width="12" />
-  <div style="display: inline-block; width: 50px; height: 50px; background-image: url('https://github.com/MigueMendz/MigueMendz/blob/migueDEV/images/PostgreSQL.svg'); background-size: contain; background-repeat: no-repeat;"></div>
+  <img src="https://github.com/MigueMendz/MigueMendz/blob/migueDEV/images/PostgreSQL.svg" alt="PostgreSQL" width="50">
   <img width="12" />
-  <div style="display: inline-block; width: 50px; height: 50px; background-image: url('https://github.com/MigueMendz/MigueMendz/blob/migueDEV/images/MongoDB.svg'); background-size: contain; background-repeat: no-repeat;"></div>
+  <img src="https://github.com/MigueMendz/MigueMendz/blob/migueDEV/images/MongoDB.svg" alt="MongoDB" width="50">
   <img width="12" />
-  <div style="display: inline-block; width: 50px; height: 50px; background-image: url('https://github.com/MigueMendz/MigueMendz/blob/migueDEV/images/TypeScript.svg'); background-size: contain; background-repeat: no-repeat;"></div>
+  <img src="https://github.com/MigueMendz/MigueMendz/blob/migueDEV/images/TypeScript.svg" alt="TypeScript" width="50">
   <img width="12" />
-  <div style="display: inline-block; width: 50px; height: 50px; background-image: url('https://github.com/MigueMendz/MigueMendz/blob/migueDEV/images/Java.svg'); background-size: contain; background-repeat: no-repeat;"></div>
+  <img src="https://github.com/MigueMendz/MigueMendz/blob/migueDEV/images/Java.svg" alt="Java" width="50">
   <img width="12" />
-  <div style="display: inline-block; width: 50px; height: 50px; background-image: url('https://github.com/MigueMendz/MigueMendz/blob/migueDEV/images/JavaScript.svg'); background-size: contain; background-repeat: no-repeat;"></div>
+  <img src="https://github.com/MigueMendz/MigueMendz/blob/migueDEV/images/JavaScript.svg" alt="JavaScript" width="50">
   <img width="12" />
-  <div style="display: inline-block; width: 50px; height: 50px; background-image: url('https://github.com/MigueMendz/MigueMendz/blob/migueDEV/images/Python.svg'); background-size: contain; background-repeat: no-repeat;"></div>
+  <img src="https://github.com/MigueMendz/MigueMendz/blob/migueDEV/images/Python.svg" alt="Python" width="50">
 </div>
 
 <br>
 
-<h3 align="center">Others & Technology</h3>
+<h3 align="center">Tools and Technologies</h3>
 <div align="center">
-  <div style="display: inline-block; width: 50px; height: 50px; background-image: url('https://github.com/MigueMendz/MigueMendz/blob/migueDEV/images/Docker.svg'); background-size: contain; background-repeat: no-repeat;"></div>
+  <img src="https://github.com/MigueMendz/MigueMendz/blob/migueDEV/images/Docker.svg" alt="Docker" width="50">
   <img width="12" />
-  <div style="display: inline-block; width: 50px; height: 50px; background-image: url('https://github.com/MigueMendz/MigueMendz/blob/migueDEV/images/Aws.svg'); background-size: contain; background-repeat: no-repeat;"></div>
+  <img src="https://github.com/MigueMendz/MigueMendz/blob/migueDEV/images/Aws.svg" alt="AWS" width="50">
   <img width="12" />
-  <div style="display: inline-block; width: 50px; height: 50px; background-image: url('https://github.com/MigueMendz/MigueMendz/blob/migueDEV/images/Postman.svg'); background-size: contain; background-repeat: no-repeat;"></div>
+  <img src="https://github.com/MigueMendz/MigueMendz/blob/migueDEV/images/Postman.svg" alt="Postman" width="50">
   <img width="12" />
-  <div style="display: inline-block; width: 50px; height: 50px; background-image: url('https://github.com/MigueMendz/MigueMendz/blob/migueDEV/images/Discord.svg'); background-size: contain; background-repeat: no-repeat;"></div>
+  <img src="https://github.com/MigueMendz/MigueMendz/blob/migueDEV/images/Discord.svg" alt="Discord" width="50">
   <img width="12" />
-  <div style="display: inline-block; width: 50px; height: 50px; background-image: url('https://github.com/MigueMendz/MigueMendz/blob/migueDEV/images/Spring.svg'); background-size: contain; background-repeat: no-repeat;"></div>
+  <img src="https://github.com/MigueMendz/MigueMendz/blob/migueDEV/images/Spring.svg" alt="Spring" width="50">
   <img width="12" />
-  <div style="display: inline-block; width: 50px; height: 50px; background-image: url('https://github.com/MigueMendz/MigueMendz/blob/migueDEV/images/ExpressJS.svg'); background-size: contain; background-repeat: no-repeat;"></div>
+  <img src="https://github.com/MigueMendz/MigueMendz/blob/migueDEV/images/ExpressJS.svg" alt="ExpressJS" width="50">
   <img width="12" />
-  <div style="display: inline-block; width: 50px; height: 50px; background-image: url('https://github.com/MigueMendz/MigueMendz/blob/migueDEV/images/FastAPI.svg'); background-size: contain; background-repeat: no-repeat;"></div>
+  <img src="https://github.com/MigueMendz/MigueMendz/blob/migueDEV/images/FastAPI.svg" alt="FastAPI" width="50">
   <img width="12" />
-  <div style="display: inline-block; width: 50px; height: 50px; background-image: url('https://github.com/MigueMendz/MigueMendz/blob/migueDEV/images/Flask.svg'); background-size: contain; background-repeat: no-repeat;"></div>
+  <img src="https://github.com/MigueMendz/MigueMendz/blob/migueDEV/images/Flask.svg" alt="Flask" width="50">
   <img width="12" />
-  <div style="display: inline-block; width: 50px; height: 50px; background-image: url('https://github.com/MigueMendz/MigueMendz/blob/migueDEV/images/NodeJS.svg'); background-size: contain; background-repeat: no-repeat;"></div>
+  <img src="https://github.com/MigueMendz/MigueMendz/blob/migueDEV/images/NodeJS.svg" alt="NodeJS" width="50">
 </div>
-
 
 
 
