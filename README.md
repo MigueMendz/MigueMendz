@@ -1,5 +1,9 @@
 <!-- Welcome im miguel mendoza -->
-![Visitas](https://komarev.com/ghpvc/?username=MigueMendz&label=Visitas&color=blue&style=flat)
+<div aling="left">
+ 
+![Visits](https://komarev.com/ghpvc/?username=MigueMendz&label=Visitas&color=blue&style=flat)
+ 
+</div>
 
 <div align="center">
  
