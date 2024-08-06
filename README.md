@@ -7,8 +7,6 @@
 <div align="center">
   <img src="https://github.com/MigueMendz/MigueMendz/blob/migueDEV/images/Linux.svg" alt="Linux" width="50">
   <img width="12" />
-  <img src="https://github.com/MigueMendz/MigueMendz/blob/migueDEV/images/Ubuntu.svg" alt="Ubuntu" width="50">
-  <img width="12" />
   <img src="https://github.com/MigueMendz/MigueMendz/blob/migueDEV/images/Windows.svg" alt="Windows" width="50">
   <img width="12" />
 </div>
