@@ -16,28 +16,18 @@
 
 
 
-<h3 align="center">System</h3>
+<h3 align="center">System & Database & Languages</h3>
 <div align="center">
   <img src="https://github.com/MigueMendz/MigueMendz/blob/migueDEV/images/Linux.svg" alt="Linux" width="50">
   <img width="12" />
   <img src="https://github.com/MigueMendz/MigueMendz/blob/migueDEV/images/Windows.svg" alt="Windows" width="50">
-</div>
-
-<br>
-
-<h3 align="center">Database</h3>
-<div align="center">
+  <img width="12" />
   <img src="https://github.com/MigueMendz/MigueMendz/blob/migueDEV/images/MySQL.svg" alt="MySQL" width="50">
   <img width="12" />
   <img src="https://github.com/MigueMendz/MigueMendz/blob/migueDEV/images/PostgreSQL.svg" alt="PostgreSQL" width="50">
   <img width="12" />
   <img src="https://github.com/MigueMendz/MigueMendz/blob/migueDEV/images/MongoDB.svg" alt="MongoDB" width="50">
-</div>
-
-<br>
-
-<h3 align="center">Languages</h3>
-<div align="center">
+  <img width="12" />
   <img src="https://github.com/MigueMendz/MigueMendz/blob/migueDEV/images/TypeScript.svg" alt="TypeScript" width="50">
   <img width="12" />
   <img src="https://github.com/MigueMendz/MigueMendz/blob/migueDEV/images/Java.svg" alt="Java" width="50">
@@ -49,7 +39,7 @@
 
 <br>
 
-<h3 align="center">Others</h3>
+<h3 align="center">Others & Technology</h3>
 <div align="center">
   <img src="https://github.com/MigueMendz/MigueMendz/blob/migueDEV/images/Docker.svg" alt="Docker" width="50">
   <img width="12" />
@@ -58,12 +48,7 @@
   <img src="https://github.com/MigueMendz/MigueMendz/blob/migueDEV/images/Postman.svg" alt="Postman" width="50">
   <img width="12" />
   <img src="https://github.com/MigueMendz/MigueMendz/blob/migueDEV/images/Discord.svg" alt="Discord" width="50">
-</div>
-
-<br>
-
-<h3 align="center">Technology</h3>
-<div align="center">
+  <img width="12" />
   <img src="https://github.com/MigueMendz/MigueMendz/blob/migueDEV/images/Spring.svg" alt="Spring" width="50">
   <img width="12" />
   <img src="https://github.com/MigueMendz/MigueMendz/blob/migueDEV/images/ExpressJS.svg" alt="ExpressJS" width="50">
@@ -74,7 +59,6 @@
   <img width="12" />
   <img src="https://github.com/MigueMendz/MigueMendz/blob/migueDEV/images/NodeJS.svg" alt="NodeJS" width="50">
 </div>
-
 
 
 
