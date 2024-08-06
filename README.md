@@ -1,20 +1,14 @@
+<!-- Welcome im miguel mendoza -->
 
 <div align="center">
  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=27&letterSpacing=3px&duration=1&pause=1&color=F7F7F7&center=true&vCenter=true&multiline=true&repeat=false&width=435&lines=I'm+Miguel+Mendoza)](https://git.io/typing-svg)
- 
 </div>
-
-
 <div align="center">
  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2400&pause=2400&color=F7F7F7&center=true&width=435&lines=Student+in+Software;Backend+Specialty)](https://git.io/typing-svg)
 
 </div>
-
-
-
-
 
 <h3 align="center">Systems | Databases | Languages</h3>
 <div align="center">
@@ -36,9 +30,7 @@
   <img width="12" />
   <img src="https://github.com/MigueMendz/MigueMendz/blob/migueDEV/images/Python.svg" alt="Python" width="50">
 </div>
-
 <br>
-
 <h3 align="center">Tools and Technologies</h3>
 <div align="center">
   <img src="https://github.com/MigueMendz/MigueMendz/blob/migueDEV/images/Docker.svg" alt="Docker" width="50">
@@ -59,11 +51,6 @@
   <img width="12" />
   <img src="https://github.com/MigueMendz/MigueMendz/blob/migueDEV/images/NodeJS.svg" alt="NodeJS" width="50">
 </div>
-
-
-
-
-
 <br>
 <br>
 <div align="center">
@@ -74,5 +61,4 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MigueMendz&layout=compact&langs_count=8&theme=github_dark" alt="Top Languages">
 </p>
 <hr>
- 
 </div>
