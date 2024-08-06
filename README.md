@@ -1,4 +1,5 @@
 <!-- Welcome im miguel mendoza -->
+![Visitas](https://komarev.com/ghpvc/?username=MigueMendz&label=Visitas&color=blue&style=flat)
 
 <div align="center">
  
