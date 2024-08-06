@@ -4,7 +4,7 @@
 <br>
 
 <h3 align="center">Languages and Tools:</h3>
-<h1>Hola</h1>
+<h3 align="center">System</h3>
 <div align="center">
   <img src="https://github.com/MigueMendz/MigueMendz/blob/migueDEV/images/Linux.svg" alt="Linux" width="50">
   <img width="12" />
