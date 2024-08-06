@@ -2,7 +2,7 @@
 <h4 align="center">JAVASCRIPT, PYTHON, TYPESCRIPT, JAVA</h3>
 <br>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Languages & Tools:</h3>
 
 <div align="center">
   <img src="https://github.com/MigueMendz/MigueMendz/blob/migueDEV/images/Linux.svg" alt="Linux" width="50">
