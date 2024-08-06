@@ -1,8 +1,15 @@
-<h1 align="center">Welcome</h1>
+
+<div align="center">
+ 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=27&letterSpacing=3px&duration=1500&pause=5000&color=F7F7F7&center=true&vCenter=true&multiline=true&repeat=false&width=435&lines=I'm+Miguel+Mendoza)](https://git.io/typing-svg)
+ 
+</div>
+
+
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=5000&color=F7F7F7&center=true&vCenter=true&width=435&lines=I'm+Miguel+Mendoza;I'm+Student+in+Software;Backend+Specialty)](https://git.io/typing-svg)
- 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&duration=2000&pause=1000&color=F7F7F7&center=true&vCenter=true&multiline=true&width=435&lines=I'm+Student+in+Software;Backend+Specialty)](https://git.io/typing-svg)
+
 </div>
 
 <h3 align="center">System</h3>
