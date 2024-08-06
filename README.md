@@ -73,9 +73,9 @@
 </div>
 
 <br>
+<br>
 <div align="center">
-  ⚙️ &nbsp;GitHub Analytics
-
+⚙️ &nbsp;GitHub Analytics
 <p align='center'>
  <br>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MigueMendz&show_icons=true&theme=github_dark" alt="GitHub Stats">
