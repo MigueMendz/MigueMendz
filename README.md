@@ -3,7 +3,7 @@
 <h3 align="center">Visitas</h3>
 <div align="center">
   <a href="https://github.com/MigueMendz">
-    <img src="https://komarev.com/ghpvc/?username=MigueMendz&label=Visits&color=gray&style=flat&labelColor=gray" alt="Visits" style="border: 2px solid #ddd; border-radius: 8px; padding: 5px;" />
+    <img src="https://komarev.com/ghpvc/?username=MigueMendz&label=Visits&color=gray&style=flat&labelColor=black" alt="Visits" style="border: 2px solid #ddd; border-radius: 8px; padding: 5px;" />
   </a>
 </div>
 
