@@ -13,16 +13,19 @@
 </div>
 
 <h3 align="center">System</h3>
+
+
 <div align="center">
-  <span>
+  <a href="#">
     <img src="https://github.com/MigueMendz/MigueMendz/blob/migueDEV/images/Linux.svg" alt="Linux" width="50">
-  </span>
+  </a>
   <img width="12" />
-  <span>
+  <a href="#">
     <img src="https://github.com/MigueMendz/MigueMendz/blob/migueDEV/images/Windows.svg" alt="Windows" width="50">
-  </span>
+  </a>
   <img width="12" />
 </div>
+
 
 <br>
 <h3 align="center">Database</h3>
