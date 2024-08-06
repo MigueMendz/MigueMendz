@@ -16,15 +16,12 @@
 
 
 <div align="center">
-  <a href="#">
-    <img src="https://github.com/MigueMendz/MigueMendz/blob/migueDEV/images/Linux.svg" alt="Linux" width="50">
-  </a>
+  <img src="https://github.com/MigueMendz/MigueMendz/blob/migueDEV/images/Linux.svg" alt="Linux" width="50" onclick="return false;">
   <img width="12" />
-  <a href="#">
-    <img src="https://github.com/MigueMendz/MigueMendz/blob/migueDEV/images/Windows.svg" alt="Windows" width="50">
-  </a>
+  <img src="https://github.com/MigueMendz/MigueMendz/blob/migueDEV/images/Windows.svg" alt="Windows" width="50" onclick="return false;">
   <img width="12" />
 </div>
+
 
 
 <br>
