@@ -12,7 +12,7 @@
 </div>
 <div align="center">
  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2400&pause=2400&color=F7F7F7&center=true&width=435&lines=Student+in+Software+Engineering;Backend+Specialty)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2400&pause=2400&color=F7F7F7&center=true&width=435&lines=Student+in+Software;Backend+Specialty)](https://git.io/typing-svg)
 
 </div>
 
